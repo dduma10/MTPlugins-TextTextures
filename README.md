@@ -4,13 +4,6 @@ A Radiant plugin for the BO3 Mod Tools (MTPlugins / RadiantPlugins host) that tu
 Type in the pane, pick a font, colours and size, and click **Create texture**. You get a real BO3 image and material that you
 can put on a brush face or drop in as a sign.
 
-## Install
-
-1. Copy `TextTextures.dll` and `TextTextures.ini` into `<Black Ops III>\bin\plugins\TextTextures\`.
-2. Start Radiant through the Mod Tools as usual. With `autoload_new=1` in `RadiantPlugins.ini` the plugin loads on its own;
-   otherwise tick it in the Plugins window.
-3. The **Text Textures** pane opens as a tab beside Entity Info. The **Text Textures** menu toggles it.
-
 ## Use
 
 1. Type the text. Enter starts a new line, and long lines wrap.
